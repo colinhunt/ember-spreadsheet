@@ -1,0 +1,15 @@
+<table>
+	{{#each rows as |row|}}
+		<tr>
+			{{#each row as |cell|}}
+				<td>	
+					{{#if cell.first}}
+						{{cell.text}}
+					{{else}}
+						{{sheet-cell cid=cell.id}}
+					{{/if}}
+				</td>
+			{{/each}}
+		</tr>
+	{{/each}}
+</table>

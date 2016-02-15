@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/colinhunt/projects/tutorials/ember/spreadsheet",
+            "folder_exclude_patterns": [
+                "tmp",
+                "node_modules",
+                "bower_components"
+            ]									
+		}
+	]
+}

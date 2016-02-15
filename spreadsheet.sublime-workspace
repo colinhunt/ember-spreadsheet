@@ -1,0 +1,984 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"snip",
+				"snippetDists"
+			],
+			[
+				"m",
+				"map	std::map"
+			],
+			[
+				"fragShader",
+				"fragShaderSource"
+			],
+			[
+				"vertShader",
+				"vertShaderSource"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"stat",
+				"statsFile"
+			],
+			[
+				"mult",
+				"multipleChoice"
+			],
+			[
+				"list",
+				"listQuestion"
+			],
+			[
+				"ans",
+				"answer"
+			],
+			[
+				"bull",
+				"bullet"
+			],
+			[
+				"correc",
+				"correctAnswer"
+			],
+			[
+				"corre",
+				"correctAnswer"
+			],
+			[
+				"answ",
+				"answer"
+			],
+			[
+				"definiti",
+				"definition"
+			],
+			[
+				"curr",
+				"currentRW"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"profPa",
+				"profPageNum"
+			],
+			[
+				"num",
+				"profPageNum"
+			],
+			[
+				"start",
+				"startRefId"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"json",
+				"jsonResponse"
+			],
+			[
+				"CampusMap",
+				"CampusMapExteriorAPICaller"
+			],
+			[
+				"priorityque",
+				"priorityqueue"
+			],
+			[
+				"ro",
+				"room1"
+			],
+			[
+				"ha",
+				"hallway1"
+			],
+			[
+				"seaa",
+				"SearchAlgorithm"
+			],
+			[
+				"hw",
+				"hallway"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 291.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Bold Italic"
+			],
+			[
+				"pref",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 378.0
+	},
+	"console":
+	{
+		"height": 127.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/colinhunt/Dropbox/UofA/Phil 205/# Phil 205.md",
+		"/Users/colinhunt/Dropbox/UofA/Phil 205/FirstPaperNotes.txt",
+		"/Users/colinhunt/Dropbox/UofA/Cmput_403/UVA10815_input1.txt",
+		"/Users/colinhunt/Dropbox/UofA/Cmput_403/UVA12356.cpp",
+		"/Users/colinhunt/Dropbox/UofA/Cmput_403/UVA10815.cpp",
+		"/Users/colinhunt/ClionProjects/cmput411/assignment3/GlTransformable.h",
+		"/Users/colinhunt/Dropbox/UofA/Cmput_403/submitted/UVA11475.java",
+		"/Users/colinhunt/Dropbox/UofA/Cmput_403/UVA11837.cpp",
+		"/Users/colinhunt/Dropbox/UofA/Cmput_403/UVA11512/src/Main.java",
+		"/Users/colinhunt/Dropbox/UofA/Cmput_379/Assignment3/Makefile",
+		"/Users/colinhunt/ClionProjects/cmput411/assignment4/student_code/shared.glsl",
+		"/Users/colinhunt/ClionProjects/cmput411/assignment4/HelloSquare/helloSquare.cpp",
+		"/Users/colinhunt/Dropbox/UofA/Cmput 411/a4files/Makefile",
+		"/Users/colinhunt/ClionProjects/cmput411/assignment4/student_code/shader.h",
+		"/Users/colinhunt/projects/NoteTester/NoteParser.py",
+		"/Users/colinhunt/projects/NoteTester/NoteTester.py",
+		"/Users/colinhunt/projects/NoteTester/Matching.py",
+		"/Users/colinhunt/projects/NoteTester/MatchingPres.py",
+		"/Users/colinhunt/projects/NoteTester/debug_output.json",
+		"/Users/colinhunt/Library/Application Support/Sublime Text 2/Packages/User/wrap_bold_italic.sublime-snippet",
+		"/Users/colinhunt/Library/Application Support/Sublime Text 2/Packages/Default/Add Line in Braces.sublime-macro",
+		"/Users/colinhunt/Library/Application Support/Sublime Text 2/Packages/User/copy_to_group2.sublime-macro",
+		"/Users/colinhunt/Library/Application Support/Sublime Text 2/Packages/User/Default (Linux).sublime-keymap",
+		"/Users/colinhunt/Dropbox/UofA/Cmput_379/Assignment3/psim.c",
+		"/Users/colinhunt/Dropbox/UofA/Cmput 411/a3files_2/motion/running.bvh",
+		"/Users/colinhunt/Dropbox/UofA/Cmput 411/a3files_2/attach/W-small-A.att",
+		"/Users/colinhunt/Dropbox/UofA/Cmput 411/a3files_2/mesh/person-large.obj",
+		"/Users/colinhunt/Dropbox/UofA/Cmput 411/a3files_2/mesh/person-small.obj",
+		"/Users/colinhunt/Dropbox/UofA/Cmput 411/a3files_2/mesh/skin.bmp",
+		"/Users/colinhunt/Dropbox/Dillinger/Game Mechanics.md",
+		"/Users/colinhunt/Dropbox/UofA/STS 351/4 Game Mechanics/Sicart, Miguel. “Defining Game Mechanics.”",
+		"/Users/colinhunt/Dropbox/UofA/Program/ratemyprof.py",
+		"/Users/colinhunt/Dropbox/Computers/kernelPanick20141023.txt",
+		"/Users/colinhunt/Dropbox/UofA/STS 351/STS 351 Lesson 3.mdown",
+		"/Users/colinhunt/ClionProjects/cmput411/assignment2/BvhParser.cpp",
+		"/Users/colinhunt/Dropbox/Computers/My Programs/NoteTester/format.json",
+		"/Users/colinhunt/ClionProjects/cmput411/assignment2/test/output.bvh",
+		"/Users/colinhunt/ClionProjects/cmput411/assignment2/debugOutput2.txt",
+		"/Users/colinhunt/ClionProjects/cmput411/assignment2/debugOutput1.txt",
+		"/private/var/folders/29/29ga5k87EXGJRPVEbg5bGk+++TI/-Tmp-/9a5a66c0-9ea7-4ed0-91e6-edf1cda7ce81/cshome/colin/379/Assignment2/daemon.c",
+		"/private/var/folders/29/29ga5k87EXGJRPVEbg5bGk+++TI/-Tmp-/9a5a66c0-9ea7-4ed0-91e6-edf1cda7ce81/cshome/colin/379/Assignment2/server.c",
+		"/Users/colinhunt/Dropbox/UofA/Cmput_379/Assignment 02/daemon.c",
+		"/Users/colinhunt/Dropbox/UofA/Cmput_379/Assignment 02/server.c",
+		"/Users/colinhunt/ClionProjects/cmput411/assignment1/Makefile",
+		"/private/var/folders/29/29ga5k87EXGJRPVEbg5bGk+++TI/-Tmp-/9a5a66c0-9ea7-4ed0-91e6-edf1cda7ce81/cshome/colin/379/Assignment1/Makefile",
+		"/private/var/folders/29/29ga5k87EXGJRPVEbg5bGk+++TI/-Tmp-/9a5a66c0-9ea7-4ed0-91e6-edf1cda7ce81/cshome/colin/379/Assignment1/memchunk.c",
+		"/private/var/folders/29/29ga5k87EXGJRPVEbg5bGk+++TI/-Tmp-/9a5a66c0-9ea7-4ed0-91e6-edf1cda7ce81/cshome/colin/379/Assignment1/test.c",
+		"/Users/colinhunt/ClionProjects/square/output.obj",
+		"/Users/colinhunt/ClionProjects/square/output.diff",
+		"/private/var/folders/29/29ga5k87EXGJRPVEbg5bGk+++TI/-Tmp-/9a5a66c0-9ea7-4ed0-91e6-edf1cda7ce81/cshome/colin/379/Assignment1/testlib.c",
+		"/private/var/folders/29/29ga5k87EXGJRPVEbg5bGk+++TI/-Tmp-/9a5a66c0-9ea7-4ed0-91e6-edf1cda7ce81/cshome/colin/379/Assignment1/testlib.h",
+		"/private/var/folders/29/29ga5k87EXGJRPVEbg5bGk+++TI/-Tmp-/9a5a66c0-9ea7-4ed0-91e6-edf1cda7ce81/cshome/colin/379/Assignment1/memchunk.h",
+		"/Users/colinhunt/Dropbox/UofA/Cmput 379/Makefile",
+		"/Users/colinhunt/Dropbox/UofA/Cmput 379/maxnum.c",
+		"/Users/colinhunt/Dropbox/UofA/Fuegito/FuegitoSvn/Makefile",
+		"/Users/colinhunt/results.csv",
+		"/Users/colinhunt/ratemyprof.py",
+		"/Users/colinhunt/Dropbox/UofA/Program/results.csv",
+		"/Users/colinhunt/pason/trunk/src/build/defines.mk",
+		"/Users/colinhunt/pason/trunk/Makefile",
+		"/Users/colinhunt/Dropbox/UofA/Cmput 496/Project/texfiles/Project.bib",
+		"/Users/colinhunt/Dropbox/UofA/Cmput 496/Assignment3/Assignment3.txt",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/utils.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/voronoinavgraph.py",
+		"/Users/colinhunt/Dropbox/UofA/Fuegito/FuegitoSvn/makemake.pl",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/pathfinder.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/jsonutils.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/graphupdatetools.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/graphmanager.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/graphbuilder.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/graph.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/connectiongraph.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/CampusMapPyAPICaller.py",
+		"/Users/colinhunt/UofACampusMaps/backend/views.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/graphupdatetools.py.orig",
+		"/usr/local/bin/mylatex.sh",
+		"/Users/colinhunt/Library/Application Support/Sublime Text 2/Packages/User/incollection_citation.sublime-snippet",
+		"/Users/colinhunt/Library/Application Support/Sublime Text 2/Packages/User/techreport_citation.sublime-snippet",
+		"/Users/colinhunt/Library/Application Support/Sublime Text 2/Packages/User/article_citation.sublime-snippet",
+		"/Users/colinhunt/Dropbox/UofA/Cmput 300/Assignments/Assignment4/texfiles/Assignment3.tex",
+		"/Users/colinhunt/Dropbox/UofA/Cmput 300/Assignments/Assignment4/texfiles/Assignment4.bib",
+		"/usr/local/bin/unref.sh",
+		"/Users/colinhunt/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/resetDB.sql",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/pathfindertests/graphbuildertests.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/dbh Readme.txt",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/__init__.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/dbh.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/GoogleMapAPICaller.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/priorityqueue.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/voronoi.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/graphvisualizer.py",
+		"/Users/colinhunt/UofACampusMaps/backend/testsaveloadgraphs.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/pathfindertests/automatictests/test_pathfindertests.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/pathfindertests/automatictests/test_graphtests.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/testsaveloadgraphs.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/searchalgorithm.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/pathfindertests/automatictests/runalltests.py",
+		"/Users/colinhunt/UofACampusMaps/backend/campusDB/graphupdatetools.py",
+		"/Users/colinhunt/UofACampusMaps/backend/testLoadNavGraph.raw",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/pathfindertests/testConnectionGraphsFlNavGraph.raw",
+		"/Users/colinhunt/UofACampusMaps/backend/campusDB/dbh.py",
+		"/Users/colinhunt/UofACampusMaps/backend/campusDB/resetDB.sql",
+		"/Users/colinhunt/UofACampusMaps/testsaveloadgraphs.py",
+		"/Users/colinhunt/UofACampusMaps/backend/campusDB/testsaveloadgraphs.py",
+		"/Users/colinhunt/UofACampusMaps/campusDB/graphupdatetools.py",
+		"/Users/colinhunt/UofACampusMaps/campusDB/dbh.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/pathfindertests/picklegraphtest.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/pathfindertests/graphtests.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/pathfindertests/makefile",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/pathfindertests/automatictests/test_graphbuildertestsquick.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/pathfindertests/graphbuildertestsquick.py",
+		"/Users/colinhunt/UofACampusMaps/backend/pathfinder/pathfindertests/findpathtests.py",
+		"/Users/colinhunt/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/colinhunt/UofACampusMaps/backend/pathfinder/",
+			"/Users/colinhunt/UofACampusMaps/backend/pathfinder/*.py",
+			"/Users/colinhunt/UofACampusMaps/backend/pathfinder",
+			"/Users/colinhunt/UofACampusMaps",
+			"<open folders>,/Users/colinhunt/UofACampusMaps",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"M'",
+			"\\bar{M'}",
+			"$\\bar{M}$",
+			"[i]",
+			"rank",
+			"parent",
+			"size",
+			">>",
+			"rank",
+			"Member",
+			"numCitz",
+			"left[r + 1]",
+			"10815",
+			"string",
+			"\\.charAt\\((.*?)\\)",
+			"charAt\\((.*?)\\)",
+			"length",
+			"))",
+			")",
+			"song",
+			"\",",
+			",",
+			"\",",
+			"0",
+			"))\n",
+			"a",
+			"sharedSource",
+			"vertShaderSource",
+			"currentTime",
+			"Angle",
+			"AMBIENT",
+			"shader",
+			"setShaders",
+			"type",
+			"types\": \\{\\n",
+			"tag",
+			"taggedQuestion",
+			"tags",
+			"tag",
+			"TAGS_RE",
+			"nameQuestion",
+			"names",
+			"^#([^#])",
+			"^#.*\\n",
+			">> ",
+			"([^.?!\\]])\\n",
+			"Dishonored",
+			"\\*\\*\\*(#.*?)\\*\\*\\*",
+			"^#([^#])",
+			"^#",
+			"^#.*\\n",
+			">> ",
+			"([^.?!\\]])\\n",
+			"shift+c",
+			"ctrl",
+			"macro",
+			"focus",
+			"tag",
+			"wrap",
+			"},\n",
+			"wrap",
+			"tag",
+			"size",
+			"width",
+			"printD",
+			"psim",
+			"2",
+			"printf",
+			"cur",
+			"events",
+			"WAITING",
+			"waiting",
+			"WAITING",
+			"list",
+			"enqueue",
+			"dequeue",
+			"events",
+			"insertEvent",
+			"pop",
+			"curEvent",
+			"Proc",
+			"proc",
+			"Proc",
+			"NAME_LEN",
+			"256",
+			"pId",
+			"scanf",
+			"?>",
+			"(7,",
+			"(1,",
+			"(2,",
+			"(8,",
+			"(7,",
+			"(1,",
+			"32",
+			"v ",
+			"f",
+			"vt",
+			".mtl",
+			"f (\\d+\\/\\d+\\/\\d+ ){3}",
+			"\"keep\": [^0]",
+			"stats.json",
+			"doc",
+			"f",
+			"anyQuestion",
+			"('\\*\\*@(.+?)\\*\\*',",
+			"json",
+			"section",
+			"questions",
+			"pool",
+			"list\": \\[\\n",
+			"bullet",
+			"bullets",
+			"bullet",
+			"questions",
+			", ",
+			"others",
+			"bullets",
+			"choices",
+			"qType",
+			"questionFor",
+			"\"definitions\": \\{\\n",
+			"question",
+			"\"definitions\": \\{\\n",
+			"[\"text\"]",
+			"QuestionType",
+			"text",
+			"answers"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"[$1]",
+			"- $1",
+			"",
+			"$1 ",
+			"\\*\\*$1\\*\\*",
+			"- $1",
+			"-$1",
+			"",
+			"$1 ",
+			" $1",
+			" ",
+			"\\n>>",
+			"",
+			"\\n",
+			"{$1}",
+			"if $1:",
+			"node1",
+			"level",
+			"self.level",
+			"Path",
+			"s / U",
+			"Human Factors",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"defines.mk",
+				"src/build/defines.mk"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"views",
+				"backend/views.py"
+			],
+			[
+				"",
+				"backend/pathfinder/searchalgorithm.py"
+			],
+			[
+				"sea",
+				"backend/pathfinder/searchalgorithm.py"
+			],
+			[
+				"gbui",
+				"backend/pathfinder/graphbuilder.py"
+			],
+			[
+				"searc",
+				"backend/pathfinder/searchalgorithm.py"
+			],
+			[
+				"graphviz",
+				"backend/pathfinder/graphvisualizer.py"
+			],
+			[
+				"sear",
+				"backend/pathfinder/searchalgorithm.py"
+			],
+			[
+				"view",
+				"backend/views.py"
+			],
+			[
+				"searal",
+				"backend/pathfinder/searchalgorithm.py"
+			],
+			[
+				"test_",
+				"backend/pathfinder/pathfindertests/automatictests/test_pathfindertests.py"
+			],
+			[
+				"gvis",
+				"backend/pathfinder/graphvisualizer.py"
+			],
+			[
+				"gaphvis",
+				"backend/pathfinder/graphvisualizer.py"
+			],
+			[
+				"vie",
+				"backend/views.py"
+			],
+			[
+				"conn",
+				"backend/pathfinder/connectiongraph.py"
+			],
+			[
+				"views.py",
+				"backend/views.py"
+			],
+			[
+				".js",
+				"backend/static/js/mapping.js"
+			],
+			[
+				"salg",
+				"backend/pathfinder/searchalgorithm.py"
+			],
+			[
+				"con",
+				"backend/pathfinder/connectiongraph.py"
+			],
+			[
+				"graphbui",
+				"backend/pathfinder/graphbuilder.py"
+			],
+			[
+				"pathf",
+				"backend/pathfinder/pathfinder.py"
+			],
+			[
+				"pri",
+				"backend/pathfinder/priorityqueue.py"
+			],
+			[
+				"priori",
+				"backend/pathfinder/priorityqueue.py"
+			],
+			[
+				"searchal",
+				"backend/pathfinder/searchalgorithm.py"
+			],
+			[
+				"graphvi",
+				"backend/pathfinder/graphvisualizer.py"
+			],
+			[
+				"graphvis",
+				"backend/pathfinder/graphvisualizer.py"
+			],
+			[
+				"outpugr",
+				"backend/pathfinder/outputgraph.py"
+			],
+			[
+				"utils",
+				"backend/pathfinder/utils.py"
+			],
+			[
+				"grbui",
+				"backend/pathfinder/graphbuilder.py"
+			],
+			[
+				"apicall",
+				"backend/pathfinder/CampusMapPyAPICaller.py"
+			],
+			[
+				"sql",
+				"backend/pathfinder/resetDB.sql"
+			],
+			[
+				"gra",
+				"backend/pathfinder/graphbuilder.py"
+			],
+			[
+				"voro",
+				"backend/pathfinder/voronoinavgraph.py"
+			],
+			[
+				"graph",
+				"backend/pathfinder/graph.py"
+			],
+			[
+				"graph.py",
+				"backend/pathfinder/graph.py"
+			],
+			[
+				"mapping.j",
+				"backend/static/js/mapping.js"
+			],
+			[
+				"json",
+				"backend/pathfinder/jsonutils.py"
+			],
+			[
+				"util",
+				"backend/pathfinder/utils.py"
+			],
+			[
+				"graphbuil",
+				"backend/pathfinder/graphbuilder.py"
+			],
+			[
+				"searchalg",
+				"backend/pathfinder/searchalgorithm.py"
+			],
+			[
+				"gma",
+				"backend/pathfinder/graphmanager.py"
+			],
+			[
+				"graphup",
+				"backend/pathfinder/graphupdatetools.py"
+			],
+			[
+				"conne",
+				"backend/pathfinder/connectiongraph.py"
+			],
+			[
+				"gupd",
+				"backend/pathfinder/graphupdatetools.py"
+			],
+			[
+				"conec",
+				"backend/pathfinder/connectiongraph.py"
+			],
+			[
+				"grabui",
+				"backend/pathfinder/graphbuilder.py"
+			],
+			[
+				"graphb",
+				"backend/pathfinder/graphbuilder.py"
+			],
+			[
+				"graphmana",
+				"backend/pathfinder/graphmanager.py"
+			],
+			[
+				"pathfind",
+				"backend/pathfinder/pathfinder.py"
+			],
+			[
+				"congraph.py",
+				"backend/pathfinder/connectiongraph.py"
+			],
+			[
+				"seaalg",
+				"backend/pathfinder/searchalgorithm.py"
+			],
+			[
+				"dbh",
+				"backend/pathfinder/dbh.py"
+			],
+			[
+				"graph.",
+				"backend/pathfinder/graph.py"
+			],
+			[
+				"oupg",
+				"backend/pathfinder/outputgraph.py"
+			],
+			[
+				"gmana",
+				"backend/pathfinder/graphmanager.py"
+			],
+			[
+				"seaalgo",
+				"backend/pathfinder/searchalgorithm.py"
+			],
+			[
+				"graphman",
+				"backend/pathfinder/graphmanager.py"
+			],
+			[
+				"outg",
+				"backend/pathfinder/outputgraph.py"
+			],
+			[
+				"gman",
+				"backend/pathfinder/graphmanager.py"
+			],
+			[
+				"graphupdate",
+				"backend/pathfinder/graphupdatetools.py"
+			],
+			[
+				"reset",
+				"backend/pathfinder/resetDB.sql"
+			],
+			[
+				"voronoi",
+				"backend/pathfinder/voronoinavgraph.py"
+			],
+			[
+				"connectiong",
+				"backend/pathfinder/connectiongraph.py"
+			],
+			[
+				"testsav",
+				"backend/pathfinder/testsaveloadgraphs.py"
+			],
+			[
+				"gutool",
+				"backend/pathfinder/graphupdatetools.py"
+			],
+			[
+				"searhalgo",
+				"backend/pathfinder/searchalgorithm.py"
+			],
+			[
+				"runallte",
+				"backend/pathfinder/pathfindertests/automatictests/runalltests.py"
+			],
+			[
+				"testsave",
+				"backend/pathfinder/testsaveloadgraphs.py"
+			],
+			[
+				"graphmna",
+				"backend/pathfinder/graphmanager.py"
+			],
+			[
+				"graphupd",
+				"backend/pathfinder/graphupdatetools.py"
+			],
+			[
+				"s",
+				"backend/pathfinder/searchalgorithm.py"
+			],
+			[
+				"cam",
+				"backend/pathfinder/CampusMapPyAPICaller.py"
+			],
+			[
+				"graphupt",
+				"backend/pathfinder/graphupdatetools.py"
+			],
+			[
+				"graphupda",
+				"backend/pathfinder/graphupdatetools.py"
+			],
+			[
+				"visualizer",
+				"backend/pathfinder/graphvisualizer.py"
+			],
+			[
+				"graphvisu",
+				"backend/pathfinder/graphvisualizer.py"
+			],
+			[
+				"testsaveload",
+				"backend/pathfinder/testsaveloadgraphs.py"
+			],
+			[
+				"tsaveloadg",
+				"backend/pathfinder/testsaveloadgraphs.py"
+			],
+			[
+				"voronoing",
+				"backend/pathfinder/voronoinavgraph.py"
+			],
+			[
+				"tsaveload",
+				"backend/pathfinder/testsaveloadgraphs.py"
+			],
+			[
+				"tslng",
+				"backend/testLoadNavGraph.raw"
+			],
+			[
+				"vornnavg",
+				"backend/pathfinder/voronoinavgraph.py"
+			],
+			[
+				"gb",
+				"backend/pathfinder/graphbuilder.py"
+			],
+			[
+				"grb",
+				"backend/pathfinder/graphbuilder.py"
+			],
+			[
+				"gut",
+				"backend/pathfinder/graphupdatetools.py"
+			],
+			[
+				"pathfin",
+				"backend/pathfinder/pathfinder.py"
+			],
+			[
+				"searca",
+				"backend/pathfinder/searchalgorithm.py"
+			],
+			[
+				"g",
+				"backend/pathfinder/graphmanager.py"
+			],
+			[
+				"graphtool",
+				"backend/pathfinder/graphupdatetools.py"
+			],
+			[
+				"conng",
+				"backend/pathfinder/pathfindertests/testConnectionGraphsFlNavGraph.raw"
+			],
+			[
+				"test",
+				"backend/pathfinder/testsaveloadgraphs.py"
+			],
+			[
+				"grab",
+				"backend/pathfinder/graphbuilder.py"
+			],
+			[
+				"rese",
+				"backend/pathfinder/resetDB.sql"
+			],
+			[
+				"gravis",
+				"backend/pathfinder/graphvisualizer.py"
+			],
+			[
+				"uti",
+				"backend/pathfinder/utils.py"
+			],
+			[
+				"co",
+				"backend/pathfinder/connectiongraph.py"
+			],
+			[
+				"gmage",
+				"UofACampusMaps/backend/pathfinder/graphmanager.py"
+			],
+			[
+				"grm",
+				"pathfinder/graphmanager.py"
+			],
+			[
+				"voron",
+				"backend/pathfinder/voronoi.py"
+			],
+			[
+				"gbt",
+				"backend/pathfinder/pathfindertests/graphbuildertests.py"
+			],
+			[
+				"graphm",
+				"backend/pathfinder/graphmanager.py"
+			],
+			[
+				"campumapa",
+				"backend/pathfinder/CampusMapPyAPICaller.py"
+			],
+			[
+				"find",
+				"backend/pathfinder/pathfindertests/findpathtests.py"
+			],
+			[
+				"gt",
+				"backend/pathfinder/pathfindertests/graphtests.py"
+			],
+			[
+				"path",
+				"backend/pathfinder/pathfinder.py"
+			],
+			[
+				"pickle",
+				"backend/pathfinder/pathfindertests/picklegraphtest.py"
+			],
+			[
+				"seara",
+				"pathfinder/searchalgorithm.py"
+			],
+			[
+				"ut",
+				"utils.py"
+			],
+			[
+				"cm",
+				"CampusMapPyAPICaller.py"
+			],
+			[
+				"pf",
+				"pathfinder.py"
+			],
+			[
+				"gr",
+				"graph.py"
+			],
+			[
+				"gv",
+				"graphvisualizer.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 137.0,
+	"status_bar_visible": true
+}
