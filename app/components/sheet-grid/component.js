@@ -1,8 +1,11 @@
 import Ember from 'ember';
 
 export default Ember.Component.extend({
+	rows: [],
+
 	init() {
 		this._super();
+
 		let rows = [];
 		for (var i=0; i<6; i++) {
 			let cells = [];
