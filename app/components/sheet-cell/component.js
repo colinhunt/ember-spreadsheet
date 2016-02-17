@@ -1,13 +1,11 @@
 import Ember from 'ember';
-import { storageFor } from 'ember-local-storage';
 
 export default Ember.Component.extend({
-	grid: storageFor('sheet-grid'),
 	value: Ember.computed('grid', {
 		get() {
-			console.log(`getting... ${this.get('grid').get(this.get('cid'))}`);
+			console.log(`getting... ${this.get('cell').value}`);
 			// return the computed value ?
-			const value = this.get('grid').get(this.get('cid'));
+			const value = this.get('cell').value;
 			return value || "";
 		},
 		set(key, value) {

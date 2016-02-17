@@ -5,13 +5,17 @@ export default Ember.Component.extend({
 
 	init() {
 		this._super();
-
+		console.log("sheet-grid init()");
 		let rows = [];
-		for (var i=0; i<6; i++) {
+		for (let i=0; i<6; i++) {
 			let cells = [];
-		    for (var j=0; j<6; j++) {
-		        var letter = String.fromCharCode("A".charCodeAt(0)+j-1);
-		        cells.push(i && j ? {first: false, id: letter + i} : {first: true, text: i || letter});
+		    for (let j=0; j<6; j++) {
+		        let letter = String.fromCharCode("A".charCodeAt(0)+j-1);
+		        cells.push(i && j ? {
+		        	first: false, 
+		        	id: letter + i, 
+		        	cell: this.sendAction('createCell', letter + i, "")
+		        } : {first: true, text: i || letter});
 		    }
 		    rows.push(cells);
 		}
