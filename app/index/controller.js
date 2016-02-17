@@ -4,16 +4,19 @@ export default Ember.Controller.extend({
 	actions: {
 		createCell(key, value) {
 			console.log("createCell " + key + " called!");
-			let cell = this.store.findRecord('cell', key);
-			if (!cell) {
-				cell = this.store.createRecord('cell', {
+			try {
+				let cell = this.store.createRecord('cell', {
 					id: key,
 					key: key,
 					value: value
 				});				
 				cell.save();
+				console.log("creating new...");
+				return cell;
+			} catch (e) {
+				console.log("returning existing...");
+				return this.store.findRecord('cell', key);
 			}
-			return cell;
 		}
 	}
 });
