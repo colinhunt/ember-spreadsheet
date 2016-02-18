@@ -6,7 +6,7 @@
 					{{#if cell.first}}
 						{{cell.text}}
 					{{else}}
-						{{sheet-cell cid=cell.id cell=cell.cell}}
+						{{sheet-cell cid=cell.id cell=cell.cell computeValue=(action "computeValue")}}
 					{{/if}}
 				</td>
 			{{/each}}

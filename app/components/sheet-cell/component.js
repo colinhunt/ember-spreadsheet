@@ -18,19 +18,6 @@ export default Ember.Component.extend({
 		return this.computeValue();
 	}),
 
-	computeValue() {
-		console.log("getting computed value...2");
-		const value = this.get('value');
-		try {
-			if (value.charAt(0) === "=") {
-				return eval(value.substring(1));
-			}
-		} catch(e) {
-			return "NaN";
-		}
-		return value;
-	},
-
 	focusIn(e) {
 		console.log("focusin... on component " + this.get('cid'));
 		e.target.value = this.get('value');

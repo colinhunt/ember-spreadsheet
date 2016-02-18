@@ -20,5 +20,21 @@ export default Ember.Component.extend({
 		    rows.push(cells);
 		}
 		this.set('rows', rows);
+	},
+
+	actions: {
+		computeValue(value) {
+			with (this.get('grid')) {
+				console.log("getting computed value...2");
+				try {
+					if (value.charAt(0) === "=") {
+						return eval(value.substring(1));
+					}
+				} catch(e) {
+					return "NaN";
+				}
+				return value;
+			}
+		}
 	}
 });
